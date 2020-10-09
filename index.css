@@ -1,0 +1,440 @@
+.loader {
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -13px;
+	margin-left: -13px;
+	border-radius: 60px;
+	animation: loader 0.8s linear infinite;
+	-webkit-animation: loader 0.8s linear infinite;
+}
+
+@keyframes loader {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+		border: 4px solid #f44336;
+		border-left-color: transparent;
+	}
+	50% {
+		-webkit-transform: rotate(180deg);
+		transform: rotate(180deg);
+		border: 4px solid #673ab7;
+		border-left-color: transparent;
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		transform: rotate(360deg);
+		border: 4px solid #f44336;
+		border-left-color: transparent;
+	}
+}
+
+@-webkit-keyframes loader {
+	0% {
+		-webkit-transform: rotate(0deg);
+		border: 4px solid #f44336;
+		border-left-color: transparent;
+	}
+	50% {
+		-webkit-transform: rotate(180deg);
+		border: 4px solid #673ab7;
+		border-left-color: transparent;
+	}
+	100% {
+		-webkit-transform: rotate(360deg);
+		border: 4px solid #f44336;
+		border-left-color: transparent;
+	}
+}
+/* Preloder */
+#preloder {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 999999;
+	background: #fff;
+}
+#tsparticles {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #0d47a1;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/21b5d8f9-81f1-4064-976e-0b95491b8b47/d8g5x2a-30f43cad-7cde-4bdc-9b89-16550c140753.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjFiNWQ4ZjktODFmMS00MDY0LTk3NmUtMGI5NTQ5MWI4YjQ3XC9kOGc1eDJhLTMwZjQzY2FkLTdjZGUtNGJkYy05Yjg5LTE2NTUwYzE0MDc1My5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.N9ThrT7r60Xf8B15Y1dmX8wi3SWTfaJ0GDCXokOuyWI");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+h4.card-title {
+  color: black;
+  font-family: monospace;
+
+}
+p.card-text {
+  color: black;
+  font-family: monospace;
+
+}
+.page-section h1 {
+  font-size: 3em;
+}
+
+.page-section h2 {
+  font-size: 2em;
+}
+
+.page-section p {
+  font-size: 1em;
+  margin: 0 0 20px;
+}
+.page-section {
+  padding: 15px 0;
+}
+.pageSection {
+  min-height: 600px;
+  padding: 20px;
+  background: #dddddd;
+}
+
+.page-section {
+  width: 100%;
+  height: auto;
+  padding: 30px 0;
+}
+
+.noPadd {
+  padding: 0;
+}
+
+.page-section h1 {
+  font-size: 3.5em;
+  margin: 90px 0 30px;
+  line-height: 1.2em;
+}
+
+  .page-section h1 span {
+      font-weight: 200;
+  }
+
+.page-section h2 {
+  color: #80B421;
+}
+
+.page-section p {
+  font-size: 1.1em;
+  line-height: 1.6em;
+}
+
+.darkBg {
+  background-image: linear-gradient( 89.9deg,  rgba(208,246,255,1) 0.1%, rgba(255,237,237,1) 47.9%, rgba(255,255,231,1) 100.2% );
+}
+
+  .darkBg h2 {
+      color: rgb(89, 0, 255);
+  }
+
+  .darkBg .fa {
+      color: rgb(17, 93, 235);
+  }
+  .pdingBtm30 {
+    padding-bottom: 30px;
+}
+/* Action Panel */
+.actionPanel {
+  padding: 12px 0;
+  background-image: linear-gradient(to top, #00d2ff 0%, #3a7bd5 100%);
+}
+
+
+  .actionPanel h3 {
+      margin: 0px;
+      color: white;
+      font-family: monospace;
+      font-size: 20px;
+  }
+  .actionPanel {
+    padding: 25px 0;
+    background-image: linear-gradient(to top, #00d2ff 0%, #3a7bd5 100%);
+}
+.actionPanel p {
+  margin: 0px;
+  color: white;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+    .actionPanel h3 {
+        margin: 0px;
+    }
+
+#sidebar_container { 
+    float: right;
+    width: 250px;
+    padding: 16px 0 0 0;
+    height: 450px;
+  }
+  
+  .sidebar { 
+    float: right;
+    width: 200px;
+    margin: 0 0 17px 0;
+    padding: 0 15px 5px 13px;
+  }
+    
+  .sidebar h3 { 
+    padding: 0 15px 20px 0;
+    font: 200% 'News Cycle', arial, sans-serif;
+    text-shadow:  #FFF 1px 1px;
+    margin: 0 1px;
+    color: #222;
+  }
+  
+  .sidebar_item, .content_item { 
+    padding: 15px 0;
+  }
+  
+#content ul, .sidebar ul { 
+    margin: 2px 0 5px 0px;
+  }
+  
+  #content ul li, .sidebar ul li { 
+    list-style-type: none;
+    background: transparent url(../images/bullet.png) no-repeat left center;
+    margin: 0 0 0 0; 
+    padding: 2px 0 2px 28px;
+    line-height: 1.5em;
+  }
+  #content { 
+    text-align: justify;
+    width: 670px;
+    padding: 0 0 5px 0;
+    margin: 0;
+    float: left;
+  }
+
+h1.title {
+    color: black;
+    text-align: center;
+    font-family: fantasy;
+    
+ 
+}
+.btn {
+    flex: 1 1 auto;
+    margin: 10px;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+   /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    box-shadow: 0px 17px 10px -10px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+    -webkit-transition: all ease-in-out 300ms;
+    transition: all ease-in-out 300ms;
+  }
+  
+  
+  /* Demo Stuff End -> */
+  
+  /* <- Magic Stuff Start */
+  
+  .btn:hover {
+    background-position: right center;
+    box-shadow: 0px 37px 20px -20px rgba(0, 0, 0, 0.2);
+    -webkit-transform: translate(0px, -10px) scale(1.2);
+            transform: translate(0px, -10px) scale(1.2); /* change the direction of the change here */
+  }
+  .btn-grad {
+    background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+  }
+  .btn-gradTOS {
+    background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+    box-shadow: 0 0 20px #eee;
+  }
+
+  .btn-grad1 {
+    border-radius: 4px;
+    background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+ 
+   
+    font-size: 28px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+ 
+  
+  .btn-grad1 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .btn-grad1:hover span {
+    padding-right: 25px;
+  }
+  
+  .btn-grad1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+ li.Added {
+   font-family: 'Times New Roman', Times, serif;
+   color: green;
+ }
+ li.Removed {
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+}
+ 
+li.Updated {
+  font-family: 'Times New Roman', Times, serif;
+  color: purple;
+}
+ 
+li.Reported {
+  font-family: 'Times New Roman', Times, serif;
+  color: orange;
+}
+ 
+li.Important {
+  font-family: 'Times New Roman', Times, serif;
+  color: blue;
+}
+ 
+
+ 
+  
+
+p.m-0 {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+ 
+}
+h3.m-0 {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+ 
+}
+p.Description {
+  color: black;
+  text-align: center;
+  font-family: monospace;
+}
+hr.Hr1 {
+    background-color: black;
+}
+hr.Hr2 {
+    background-color: black;
+}
+hr.Hr3 {
+    background-color: black;
+}
+
+  /*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.custom-scrollbar-js,
+.custom-scrollbar-css {
+  height: 200px;
+}
+
+
+/* Custom Scrollbar using CSS */
+
+
+/* scrollbar width */
+body::-webkit-scrollbar {
+    width: 20px;
+}
+
+/* scrollbar track */
+body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+}
+
+/* scrollbar handle */
+body::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+  background-color: #00d2ff;
+  height: 5px;
+  background-image: linear-gradient(to top, #00d2ff 0%, #3a7bd5 100%);
+}
+
+  
+
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+
+  .scroll {
+    color: #0000FF;
+    margin-top: 100px
+    }
+    
+    #toTopBtn {
+    position: fixed;
+    bottom: 26px;
+    right: 39px;
+    z-index: 98;
+    padding: 21px;
+    background-color: (#0000FF);
+    }
+    
+    .js .cd-top--fade-out {
+    opacity: .5
+    }
+    
+    .js .cd-top--is-visible {
+    visibility: visible;
+    opacity: 1
+    }
+    
+    .js .cd-top {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .3s, visibility .3s, background-color .3s
+    }
+    
+    .cd-top {
+    position: fixed;
+    bottom: 20px;
+    bottom: var(--cd-back-to-top-margin);
+    right: 20px;
+    right: var(--cd-back-to-top-margin);
+    display: inline-block;
+    height: 40px;
+    height: var(--cd-back-to-top-size);
+    width: 40px;
+    width: var(--cd-back-to-top-size);
+    box-shadow: 0 0 10px (#0000FF) !important;
+    background: url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1571057658/cd-top-arrow.svg) no-repeat center 50%;
+    background-color: (#0000FF);
+    background-color: hsla(var(--cd-color-3-h), var(--cd-color-3-s), var(--cd-color-3-l), 0.8)
+    }

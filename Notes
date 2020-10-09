@@ -1,0 +1,56 @@
+Update For v 0.2
+-------------------
+1) Added Images for The following
+ a) Changelog
+ b) News
+ c) Sponsors
+ d) Development 
+2) Stopped Development on the Newsletter
+3) Started Development on Login / Register Forms
+4) Discord Bot Link Added 
+5) Development Job Application Created
+
+Server
+------
+1) Rules Updated
+2) Advertisement Started
+
+Bot
+---
+1) Discord Bot Created
+-----------------------
+Update For v 0.3
+----------------
+Website
+-------
+1) Added a Discord Widget To Bottom Right of each Page
+2) Changed the Navigation Bar
+3) Created a Discord Staff Application
+4) Created and filled in the News Page with a bunch of placeholders
+5) Filled in the Commands page
+
+-------------------
+Update For v 0.4
+--------------
+Website
+------
+1) Started development on a minigame (Snake)
+2) Added a Preloader to the Website
+-------------
+Update For v 0.5
+--------
+Website
+------
+Changed footer color on home page
+changed the font family on changelog 
+set the discord button from a rainbow color changing to a fixed color
+fixed the snake game (thanks to @Kranthos)
+found a bug in the Load time Estimation not showing Up
+added a discord link to footer of all pages
+Fixed Footer Alignment and format
+changed the section headers in changelog from colored bullet points to a header format
+----
+Bot
+---
+Stopped Development 
+Switched to v12 DJS
