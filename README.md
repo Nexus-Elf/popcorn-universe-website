@@ -1,5 +1,6 @@
 # popcorn-universe-website
 [![Netlify Status](https://api.netlify.com/api/v1/badges/26492133-d3ce-4e04-99da-0d160f8bb8e3/deploy-status)](https://app.netlify.com/sites/popcorn-universe/deploys)
+![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&style=plastic&up_color=green&up_message=Online&url=https%3A%2F%2Fpopcorn-universe.netlify.app)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nexus-Elf/popcorn-universe-website?label=Languages%20Used%20Count&style=plastic)
 ![Discord](https://img.shields.io/discord/758804810291347466?label=Join%20Our%20Discord&style=plastic)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Nexus-Elf/popcorn-universe-website/total?label=Downloads&style=plastic)
