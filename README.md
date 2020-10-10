@@ -4,6 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Nexus-Elf/popcorn-universe-website?label=Languages%20Used%20Count&style=plastic)
 ![Discord](https://img.shields.io/discord/758804810291347466?label=Join%20Our%20Discord&style=plastic)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Nexus-Elf/popcorn-universe-website/total?label=Downloads&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nexus-Elf/popcorn-universe-website?color=blue&label=Last%20Commit)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nexus-Elf/popcorn-universe-website?style=social) 
 
 This code is Open-Source and free-to-use WITH PROPER PERMISSION!
