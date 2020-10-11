@@ -10,6 +10,7 @@
 
 This is the Open-Source version of the code. Here you can view the updates and changes made to the website.
 If you would like to help support the development Please consider hitting that sponsor button 😄
+
 Thanks~
 
 Discord: https://discord.gg/3S8He2u
