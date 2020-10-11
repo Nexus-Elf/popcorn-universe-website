@@ -7,12 +7,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nexus-Elf/popcorn-universe-website?color=blue&label=Last%20Commit)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nexus-Elf/popcorn-universe-website?style=social) 
 
-This code is Open-Source and free-to-use WITH PROPER PERMISSION!
-If you would like to use any part of the code / website / assets / anything else, Please ask for permission.
-You can contact me in the following ways...
-Gmail: weebtakoofficial@gmail.com
+
+This is the Open-Source version of the code. Here you can view the updates and changes made to the website.
+If you would like to help support the development Please consider hitting that sponsor button 😄
+Thanks~
+
 Discord: https://discord.gg/3S8He2u
-Instagram: Popcorn.Universe.Official
-If you are caught using any of this without proper permission I will take legal action.
-YOU HAVE BEEN WARNED!
-Thanks, Damian [Founder]
