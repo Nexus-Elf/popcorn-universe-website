@@ -5,6 +5,8 @@
 ![Discord](https://img.shields.io/discord/758804810291347466?label=Join%20Our%20Discord&style=plastic)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Nexus-Elf/popcorn-universe-website/total?label=Downloads&style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Nexus-Elf/popcorn-universe-website?color=blue&label=Last%20Commit)
+![Lines of code](https://img.shields.io/tokei/lines/github/Nexus-Elf/popcorn-universe-website?style=plastic)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nexus-Elf/popcorn-universe-website?style=plastic)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nexus-Elf/popcorn-universe-website?style=social) 
 
 
