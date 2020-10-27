@@ -15,4 +15,4 @@ If you would like to help support the development Please consider hitting that s
 
 Thanks~
 
-Discord: https://discord.gg/3S8He2u
+Discord: https://discord.gg/3S8He2u (The discord server was raided please give us some time to fix it and get it back to normal)
